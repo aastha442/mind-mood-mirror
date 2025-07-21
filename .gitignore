@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# DeepFace model weights
+.deepface/
+*.h5
+
+# Generated mood log
+mood_log.csv
+
+# IDE configs
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

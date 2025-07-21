@@ -1,0 +1,9 @@
+streamlit>=1.32.2
+deepface==0.0.93
+speechrecognition
+opencv-python
+matplotlib
+pandas
+seaborn
+tensorflow==2.19.0
+tf-keras
