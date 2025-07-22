@@ -85,14 +85,4 @@ mind-mood-mirror/
 
 ---
 
-## 🤝 Author
 
-Made with ❤️ by [Aastha Moudgil](https://github.com/aastha442)
-
-If you like the project, consider giving it a star on GitHub ⭐
-
----
-
-## 🔖 License
-
-This project is licensed under the MIT License.
