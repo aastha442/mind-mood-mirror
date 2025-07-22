@@ -56,23 +56,6 @@ python mood_detector.py
 
 ```bash
 streamlit run streamlit_app.py
-```
-
----
-
-## 📆 Project Structure
-
-```
-mind-mood-mirror/
-├── streamlit_app.py       # Streamlit dashboard UI
-├── mood_detector.py       # Webcam + mic based emotion logger
-├── requirements.txt       # Python dependencies
-├── mood_log.csv           # Auto-generated mood log (ignored in Git)
-├── .gitignore             # Ignore config
-├── README.md              # You’re reading it
-└── assets/                # Screenshots or GIFs
-    └── demo.png
-```
 
 ---
 
